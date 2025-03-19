@@ -5,10 +5,10 @@
 Raw jpg images of five types of flowers. Partitioned into test, training and validation directories. Original source are not partitioned. Original source is https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz
 Flower types - daisy, dandelion, roses, sunflowers, tulips
 
-###Acknowledgements
+### Acknowledgements
 Tung, KC (2020), “Flower Images jpg”, Mendeley Data, V1, doi: 10.17632/738sdjm6h9.1
 
-###Inspiration
+### Inspiration
 Multiclass image classification
 
 ## Steps Performed in making of the model
